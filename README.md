@@ -4,7 +4,7 @@ Hello everyone! Here some exercises in Python, I started practicing python for a
 The exercises it's important because they can proove that you learn about the algorithm concepts.
 Furthermore, these exercises can improve my skills in python and basics concepts in programming
 
-## Books Used 📚
+## Used Books 📚
     Fundamentos da Programação de Computadores 3° Edição - Algoritmos, Pascal, C/C++ (Padrrão ANSI) e JAVA [PT-BR]
     Lógica de Programação: A construção de Algoritmos e estrutura de dados com aplicações em Python 4° Edição
     
